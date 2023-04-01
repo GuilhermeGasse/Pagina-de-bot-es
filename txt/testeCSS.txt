@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+}
+
+.Principal {
+    padding: 5px;
+    margin: 10px;
+    width: 100%;
+}
+
+div.Nome h1 {
+    height: 25px;
+}
+
+div.linha-horizontal-0 hr {
+    background-color: bisque;
+    border-color: bisque;
+}
+
+div.linha-horizontal-1 hr {
+    background-color: bisque;
+    border-color: bisque;
+}
+
+div.linha-horizontal-2 hr {
+    background-color: bisque;
+    border-color: bisque;
+}
+
+main {
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+    position: relative;
+}
+
+.Foto {
+    padding: 5px;
+}
+
+div.Foto img {
+    height: 120px;
+    width: 120px;
+    margin:auto;
+    display: block
+}
+
+footer {
+    background-color: bisque;
+}

@@ -1,0 +1,84 @@
+
+<body>
+    <header class="Principal">
+        <div class="Nome">
+            <h1>
+                <center>Guilherme Guimarães Gasse</center>
+            </h1>
+        </div>
+
+
+        <div class="Foto">
+            <img src="./img//instagram perfil.jpg" alt="Foto pessoal">
+        </div>
+
+        </div>
+        <!-- Meu Javascript -->
+        <script src="./js/main.js"></script>
+    </header>
+
+    <div class="linha-horizontal-0">
+        <hr size="5" width="100%" noshade>
+
+    <!-- Conteudo principal -->
+
+    <main>
+
+        <!-- Conteúdo e contato pessoal -->
+
+        <section>
+            <div class="Conteúdo pessoal">
+                <h3 class="Conteúdo"><strong>Informações Pessoais:</strong></h3>
+                <p>Email: guilhermegasse@gmail.com</p>
+                <p>Telefone: (22) 99225-0627</p>
+                <p>Github: <a href="https://github.com/GuilhermeGasse">Guilherme Gasse</a></p>
+                <p>Linkedin:<a href="https://www.linkedin.com/in/guilherme-guimaraes-1271581b7/">Guilherme Guimaraes</a>
+                </p>
+            </div>
+
+            <div class="linha-horizontal-1">
+                <hr size="5" width="100%" noshade>
+
+                <!-- Objetivo principal -->
+
+        </section>
+
+        <section>
+            <div class="Objetivo-profissional">
+                <h2 class="Objetivo-escrito">Objetivo profissional:</h2>
+                <p>Trabalhar na área de desenvolvimento de software, preferencialmente no front end.</p>
+            </div>
+        </section>
+
+        <div class="linha-horizontal-2">
+            <hr size="5" width="100%" noshade>
+
+            <!-- Projetos -->
+
+            <section>
+                <div class="Projetos">
+                    <h2 class="Projetos-expostos">Meus projetos:</h2>
+                    <p class="Jogo-unity"><button>1. Jogo na Unity3D</button></p>
+                    <p class="Calculadora"><button>2. Calculadora Online</button></p>
+                    <p class="Site-com-front-end"><button>3. Desafio de codigo</button></p>
+                    <p class="Exercicio-solidity"><button>4. Exercício de solidity e criptomoeda</button></p>
+                    <p class="Exercicio-de-aula"><button>5. Exercício de aula</button></p>
+                </div>
+            </section>
+    </main>
+
+    <!-- Rodapé -->
+
+    <footer>
+        <div class="imagem-do-emoji">
+            <p>
+                <font size="10">
+                    <center>&#x1F917</center>
+                </font>
+            </p>
+        </div>
+    </footer>
+
+</body>
+
+</html>

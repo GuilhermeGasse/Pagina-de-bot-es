@@ -1,0 +1,1 @@
+"Uma pagina onde o centro contêm 35 botões sob o local das imagens, todo o botão tem um número quando pressionado a imagem vai aparecer do fundo. Cada vez mais preciso de uma roda giratória com método de entrada através da página, não do código."
